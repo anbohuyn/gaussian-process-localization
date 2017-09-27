@@ -1,5 +1,4 @@
-# gaussian-process-localization
-Indoor Localization using Gaussian Processes
+# Indoor Localization using Gaussian Processes
 
 ###################
 Information 
