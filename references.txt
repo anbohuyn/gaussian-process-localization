@@ -1,0 +1,6 @@
+Implementation reference:
+http://rse-lab.cs.washington.edu/papers/gp-localization-rss-06.pdf
+
+Dataset source:
+http://robotics.ucmerced.edu/wifi-localization-software
+http://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/wifijournal_revised_0.pdf
