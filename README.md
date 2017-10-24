@@ -1,9 +1,5 @@
 # Indoor Localization using Gaussian Processes
 
-###################
-Information 
-###################
-
 Pre-requisites:-
 1. Ubuntu 16.04+ (Tested on 16.04 LTS)
 2. Python 2.7
@@ -13,20 +9,12 @@ Install Dependencies:-
 2. matplotlib
 3. scikit-learn
 
-###################
-Setup Instructions
-###################
-
 Setup instructions:-
 1. Run InstallDependencies .sh (Elevated accces required, alternative InstallDependenciesUser.sh)
 
 Runnning Code:-
 1. python ./source/main.py - (Run main.py from terminal)
 
-
-##################
-Optional 
-##################
 
 Debugging steps (In case data is missing/empty)
 
