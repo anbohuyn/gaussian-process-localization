@@ -21,6 +21,8 @@ Debugging steps (In case data is missing/empty)
 How to get Data files :-
 1. Download http://robosrv.ucmerced.edu/public/software/IROS2012/UCM-WiFi-Localizer_Processed-Data.zip
 2. Unzip "contents" to this location ./data/UCM_data/
+3. Download and extract "UCM-WiFi-Localizer" from http://robosrv.ucmerced.edu/public/videos/ICRA2014/UCM-WiFi-Localizer_Processed-Data.zip
+4. Copy RealRobot_time.mat to ./data/UCM_data/
 
 
 Preprocessing Data :-
